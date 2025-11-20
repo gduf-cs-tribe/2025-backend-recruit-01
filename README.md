@@ -300,9 +300,9 @@
   - 按照一定的规范书写你的代码，例如正确的变量命名，方法命名等。
   - 在关键的代码写上注释。
 - 代码规范参考：
-  - Java：[《阿里巴巴 Java 开发手册》](https://ucc-private-download.oss-cn-beijing.aliyuncs.com/ff52070cd4bd419e9b775b47039b0ef8.pdf?Expires=1698510192&OSSAccessKeyId=LTAIvsP3ECkg4Nm9&Signature=DteSjSue%2FJzvhDXrq%2BzfSB3j0J0%3D)
+  - Java：[《阿里巴巴 Java 开发手册》](https://developer.aliyun.com/ebook/6561/read?spm=a2c6h.26392459.ebook-detail.2.40461869x584zH)
   - C: [《OpenHarmony C语言编程规范》](https://gitee.com/openharmony/docs/blob/master/zh-cn/contribute/OpenHarmony-c-coding-style-guide.md)
-  - C++: [《Google C++ 风格指南》](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
+  - C++: [《Google C++ 风格指南》](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
   - Golang: [《Go 语言编码规范》](https://learnku.com/go/wikis/38426)
 - 如果你已经熟悉了一门语言的基本语法，并且产出过类似的项目，觉得这份考核过于简单。或者你想要走的方向，使用的语言不在上述提到的语言中。可以及时跟我们联系，我们会进行特殊处理。
 
